@@ -21,8 +21,8 @@ public class CartDemo {
         carts.add(userMarkus);
 
         System.out.println("Hier wird die unsortierte Liste ausgegeben:");
-        for (int i = 0; i < carts.size(); i++) {
-            System.out.println(carts.get(i).toString());
+        for (Cart cart : carts) {
+            System.out.println(cart.toString());
         }
 
         //Sort with implemented comparable
