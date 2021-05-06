@@ -1,0 +1,11 @@
+baum
+weiss
+gruen
+hund
+katze
+abfallwagen
+klausur
+reis
+hose
+wichtelspiel
+atomkraftwerk
